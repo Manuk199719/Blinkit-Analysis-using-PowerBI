@@ -7,6 +7,7 @@ This project is a **Power BI Dashboard** .This analyzes **Blinkit's sales** perf
 
 ## 🖼️ Dashboard Preview
 Below is a preview of the **Blinkit Analysis**:
+![Blinkit Dashboard](https://github.com/Manuk199719/Blinkit-Analysis-using-PowerBI/blob/09d9ede79f7a13704fc6e927023b879455d0db34/Blinkit%20Dashboard.png?raw=true)
 
 
 ---
@@ -53,25 +54,4 @@ Below is a preview of the **Blinkit Analysis**:
 
 ## 📌 Conclusion
 - Blinkit is performing strongly in Tier 3 cities and medium-sized stores. However, underperforming outlet sizes, low item visibility, and stagnant customer ratings are hampering further growth. With data-driven adjustments to outlet formats, digital visibility, and customer engagement strategies, Blinkit can scale sustainably and improve both top-line and customer satisfaction.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Takeways:
-This dashboard not only reflects the sales dynamics across regions and outlet types but also helps decision-makers identify high-performing outlet segments, understand customer preferences, and improve inventory and outlet planning strategies.
 
