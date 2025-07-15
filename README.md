@@ -13,7 +13,7 @@ Below is a preview of the **Blinkit Analysis**:
 ## ✨ Features
 - **Sales Overview**: Analyze sales, profits, and growth trends.  
 - **Top KPIs**: Total & average sales, average ratings. 
-- **Interactive Visuals**: Dynamic charts,slicers, maps, and smart narratives for intuitive exploration.  
+- **Interactive Visuals**: Dynamic charts, slicers, matrix, and smart narratives for intuitive exploration.  
 - **Advanced Insights**: Leverage advanced DAX functions and custom visualizations.
 ---
 
@@ -39,8 +39,20 @@ Below is a preview of the **Blinkit Analysis**:
 - Customer ratings average is 3.9 – indicating room for improvement.
 - Item visibility is low (0.06), affecting discoverability across all outlet types.
 - Sales peaked in 2018 and have slightly declined in recent years.
+
+- **Recommendations for Sales Improvement**:
+- Focus promotions on top-selling categories (Fruits, Snacks, Household).
+- Boost visibility and offers for low-fat and health-focused items.
+- Expand medium-sized outlets in Tier 2 and Tier 3 cities.
+- Improve item visibility in the app with better filters and smart recommendations.
+- Launch loyalty programs and referral incentives.
+- Address issues affecting customer ratings (delivery speed, quality).
+- Audit high-cost large outlets for efficiency.
+- Replicate successful 2018 sales strategies across underperforming outlets
 ---
-    
+
+## 📌 Conclusion
+- Blinkit is performing strongly in Tier 3 cities and medium-sized stores. However, underperforming outlet sizes, low item visibility, and stagnant customer ratings are hampering further growth. With data-driven adjustments to outlet formats, digital visibility, and customer engagement strategies, Blinkit can scale sustainably and improve both top-line and customer satisfaction.
 
 
 
@@ -58,15 +70,7 @@ Below is a preview of the **Blinkit Analysis**:
 
 
 
-## Tools & Techniques Used:
 
-✅ Power BI for data visualization
-
-✅ DAX for calculated measures
-
-✅ Interactive filtering and user-centric design
-
-✅ KPI Cards, Bar Charts, Donut Charts, Line Graphs & Matrix
 
 ## Takeways:
 This dashboard not only reflects the sales dynamics across regions and outlet types but also helps decision-makers identify high-performing outlet segments, understand customer preferences, and improve inventory and outlet planning strategies.
